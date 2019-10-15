@@ -21,10 +21,10 @@
   transition: all .5s linear;
 }
 
-.smiley:hover .left-eyebrow {
-  transform: rotate(100deg);
-}
-
 .smiley:hover .right-eyebrow {
   transform: rotate(80deg);
+}
+
+.smiley:hover .left-eyebrow {
+  transform: rotate(100deg);
 }
